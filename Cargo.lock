@@ -894,6 +894,7 @@ dependencies = [
  "ab_glyph",
  "image",
  "imageproc",
+ "rayon",
 ]
 
 [[package]]
