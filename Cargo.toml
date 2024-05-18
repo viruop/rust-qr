@@ -1,0 +1,9 @@
+[package]
+name = "rust-qr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ab_glyph = "0.2.26"
+image = "0.25.1"
+imageproc = "0.24.0"
